@@ -34,7 +34,7 @@ namespace Shop.Web.Api
             {
                 options.UseSqlServer(Configuration.GetConnectionString("ShopConnection"));
             });
-            RegisterServices(services);
+            services.RegisterServices();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -56,9 +56,6 @@ namespace Shop.Web.Api
                 endpoints.MapControllers();
             });
         }
-        private static void RegisterServices(IServiceCollection services)
-        {
-            DependencyContainer.RegisterServices(services);
-        }
+ 
     }
 }

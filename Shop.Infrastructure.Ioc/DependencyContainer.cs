@@ -9,9 +9,9 @@ using System.Text;
 
 namespace Shop.Infrastructure.Ioc
 {
-    public class DependencyContainer
+    public static class DependencyContainer
     {
-        public static void RegisterServices(IServiceCollection services)
+        public static void RegisterServices(this IServiceCollection services)
         {
             services.AddScoped<IProductRepository, ProductRepository>();
 
