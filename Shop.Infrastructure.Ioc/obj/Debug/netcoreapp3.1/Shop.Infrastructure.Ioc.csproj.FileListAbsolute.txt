@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.deps.json
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Application.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Domain.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Infra.Data.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Application.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Infra.Data.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Shop.Domain.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Shop.Infrastructure.Ioc.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.deps.json
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.runtimeconfig.json
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Domain.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Infra.Data.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Infra.Data.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Domain.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\bin\Debug\netcoreapp3.1\Shop.Infra.Data.deps.json
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\bin\Debug\netcoreapp3.1\Shop.Infra.Data.runtimeconfig.json
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\bin\Debug\netcoreapp3.1\Shop.Infra.Data.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\bin\Debug\netcoreapp3.1\Shop.Infra.Data.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\bin\Debug\netcoreapp3.1\Shop.Infra.Data.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\bin\Debug\netcoreapp3.1\Shop.Domain.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\bin\Debug\netcoreapp3.1\Shop.Domain.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.csproj.CopyComplete
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.dll
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.pdb
+C:\Users\Pichau\Desktop\CleanArquiteture\Shop.Application\Shop.Infra.Data\obj\Debug\netcoreapp3.1\Shop.Infra.Data.genruntimeconfig.cache
